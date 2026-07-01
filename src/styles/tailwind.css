@@ -1,0 +1,40 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@import 'tw-animate-css';
+
+@theme {
+  --color-spectrum: rgba(156, 39, 176, 0.35); /* Base color for glows */
+}
+
+@utility bg-spectrum {
+  background: linear-gradient(90deg, rgba(247, 165, 33, 0.15), rgba(156, 39, 176, 0.15));
+}
+
+@utility bg-gradient-primary {
+  background: linear-gradient(90deg, #F7A521, #9C27B0, #5A53C8);
+}
+
+@utility bg-dotted {
+  background-image: radial-gradient(rgba(61, 57, 137, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+@keyframes blob {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -20px) scale(1.05); }
+  66% { transform: translate(-20px, 20px) scale(0.95); }
+}
+
+@utility animate-blob {
+  animation: blob 8s ease-in-out infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+

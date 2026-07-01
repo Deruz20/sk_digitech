@@ -1,0 +1,1063 @@
+🔑 Got authentication token
+
+🔍 Fetching deployment info for: 4zfvffy22Sj9JhmUfim7cifcm4Md
+   Resolving teams...
+   Trying 4zfvffy22Sj9JhmUfim7cifcm4Md in personal account...
+   Trying dpl_4zfvffy22Sj9JhmUfim7cifcm4Md in personal account...
+✅ Got deployment info
+
+📦 Deployment ID:  dpl_4zfvffy22Sj9JhmUfim7cifcm4Md
+🌐 Deployment URL: sk-digitech-5ov4lg0e4-deruzdevs-projects.vercel.app
+📁 Project:        sk-digitech
+
+📋 Fetching file tree from API...
+
+✅ Got file tree (23 top-level entries)
+
+📁 Output directory: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source
+
+🗑️  Clearing previous download...
+
+⬇️  Downloading files...
+   (Use --verbose to see detailed progress)
+
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\astro.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\flutter.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\html-tailwind.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\jetpack-compose.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nextjs.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nuxt-ui.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nuxtjs.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\react-native.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\react.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\shadcn.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\svelte.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\swiftui.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\vue.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\charts.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\colors.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\icons.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\landing.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\products.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\react-performance.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\styles.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\typography.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\ui-reasoning.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\ux-guidelines.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\web-interface.csv
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\core.py
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\design_system.py
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\search.py
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\SKILL.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agents\AGENTS.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\index-DLOJ0ONh.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\index-DWB88TSb.js
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\sk_digitech_logo-1-CsrzbJwn.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\agility_artifact_1782480096378.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\aura_ai_chat.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\aura_hero.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\bakery_landing.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\integrity_artifact_1782480057845.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\pro_bg.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\team_artifact_1782480085547.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\transparency_artifact_1782480070661.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\uc_education_1_1782481941967.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\uc_healthcare_1_1782481955830.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\web_bg.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\aura_skincare_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_brand_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_growth_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_gtm_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_gtm_page1.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\helio_dashboard_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\helio_dashboard_custom.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\index.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\meridian_fintech_identity.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\strategy_hero.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\volta_music_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\web_macbook_mockup.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\guidelines\Guidelines.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\agility_artifact_1782480096378.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\aura_ai_chat.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\aura_hero.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\bakery_landing.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\integrity_artifact_1782480057845.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\pro_bg.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\team_artifact_1782480085547.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\transparency_artifact_1782480070661.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\uc_education_1_1782481941967.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\uc_healthcare_1_1782481955830.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\web_bg.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\aura_skincare_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_brand_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_growth_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_gtm_cover.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_gtm_page1.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\helio_dashboard_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\helio_dashboard_custom.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\meridian_fintech_identity.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\strategy_hero.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\volta_music_3d.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\web_macbook_mockup.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\ad_status.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\artifacts-and-verification.jpg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\base.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\channels4_profile.jpg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\cookienotificationbar.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\cookienotificationbar.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\feedback.jpg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\gtm.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\htV29JrMXmA.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\js
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\lottie-light.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\m=root,base
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\main-M3OAQNLT.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\manager-to-editor-handoffs.jpg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\rs=AGKMywHdBvR6U9bN1d1bex7_nI-qwG9hRw
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\styles-NNWH23TG.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\www-player.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\SmoothScroll.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\analytics.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\animate.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\burger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\close.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\cube.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\hammer.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\jquery-1.10.2.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\logo.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tag.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tag_phono.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-2.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-2.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-ext-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-sbs-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-blocks-page42737405.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-blocks-page42737405.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-events-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-fallback-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-forms-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-grid-3.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-lazyload-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-phone-mask-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-polyfill-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-scripts-3.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-slds-1.4.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-slds-1.4.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-stat-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-t635-typed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-upwidget-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-fixed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-form-errorbox.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-form-horizontal.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-gallery-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-gallery-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-scale-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\1.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\2.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\3.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\4.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\5.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\SmoothScroll.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\TweenMax.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\analytics.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\animate.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\burger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\close.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\finger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\hammer.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\jquery-1.10.2.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\logo.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tag.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tag_phono.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\three.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-2.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-2.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-ext-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-sbs-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-blocks-page43128257.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-blocks-page43128257.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-events-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-fallback-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-forms-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-grid-3.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-lazyload-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-phone-mask-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-polyfill-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-scripts-3.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-slds-1.4.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-slds-1.4.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-stat-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-upwidget-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-fixed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-form-errorbox.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-form-horizontal.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-gallery-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-gallery-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-scale-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\4-1.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\4.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\Group.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\SmoothScroll.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\analytics.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\animate.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\banana_.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\burger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\close.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\hammer.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\jquery-1.10.2.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\jquery.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\logo.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\milk.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\photo(1).png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\photo.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tag.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tag_phono.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-2.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-2.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-ext-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-sbs-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-blocks-page42945269.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-blocks-page42945269.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-errors-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-events-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-fallback-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-forms-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-grid-3.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-lazyload-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-phone-mask-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-polyfill-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-scripts-3.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-slds-1.4.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-slds-1.4.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-stat-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-upwidget-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-fixed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-form-errorbox.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-form-horizontal.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-gallery-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-gallery-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-scale-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\SmoothScroll.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\analytics.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\animate.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\burger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\close.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\hammer.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\jquery-1.10.2.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\logo_white.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tag.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tag_phono.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-2.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-2.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-ext-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-sbs-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-blocks-page43104646.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-blocks-page43104646.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-events-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-fallback-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-forms-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-grid-3.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-lazyload-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-performance-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-phone-mask-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-polyfill-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-scripts-3.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-slds-1.4.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-slds-1.4.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-stat-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-upwidget-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-fixed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-form-errorbox.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-form-horizontal.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-gallery-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-gallery-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-scale-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\1.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\2.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3D_Mascot___message_.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\4.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\5.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\Black_118_1.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\SmoothScroll.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\TweenMax.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\all.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\analytics.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\animate.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\banana_.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\burger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\butterfly.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\butterfly_black.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\close.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\dermalys_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\digit.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\digitall_mobil.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\element_white.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\finger.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\hammer.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\hotelline_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\jquery-1.10.2.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\jquery.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\logo.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\milk.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\mototouareg_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\pharmalys_laboratori.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\photo(1).png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\photo.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\play_white.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\primasure_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\puzzle.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\puzzle_black.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\safi_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\strawberry.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\swisslac_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tablet.png.webp
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\taboo_grey.svg
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tag.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tag_phono.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\three.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-2.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-2.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-ext-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-sbs-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-blocks-page42607998.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-blocks-page42607998.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-events-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-fallback-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-forms-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-grid-3.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-lazyload-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-phone-mask-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-polyfill-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-scripts-3.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-slds-1.4.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-slds-1.4.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-stat-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-t635-typed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-upwidget-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-1.1.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-fixed-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-form-errorbox.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-form-horizontal.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-forms-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-gallery-1.0.min.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-gallery-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-scale-1.0.min.js.download
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\scratch\standardize.cjs
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\BlogCard.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\CategoryFilter.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\FeaturedPostCard.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\figma\ImageWithFallback.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\AuraAIMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\AuraBrandingMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\BakeryMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\CampusSystemMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\CreativePulseMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\EliteAcademyMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\IndigoAIMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\MechanicMockup.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\CaseStudyCard.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\DottedBg.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\MagneticButton.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\ScrollReveal.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\SectionLabel.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\ServiceHero.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\TestimonialBlock.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\MagneticButton.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\accordion.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\alert-dialog.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\alert.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\aspect-ratio.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\avatar.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\badge.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\breadcrumb.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\button.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\calendar.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\card.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\carousel.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\chart.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\checkbox.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\collapsible.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\command.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\context-menu.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\dialog.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\drawer.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\dropdown-menu.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\form.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\hover-card.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\input-otp.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\input.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\label.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\menubar.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\navigation-menu.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\pagination.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\popover.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\progress.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\radio-group.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\resizable.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\scroll-area.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\select.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\separator.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sheet.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sidebar.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\skeleton.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\slider.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sonner.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\switch.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\table.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\tabs.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\textarea.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\toggle-group.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\toggle.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\tooltip.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\use-mobile.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\utils.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\OrbitalDock.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ParticleLogoFormation.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ParticleStarfield.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ServiceMockups.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ServicesBillboard.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\types.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AboutSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AbstractArtwork.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AntigravityHero.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AntigravityHero.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AuraAISection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\CTABand.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\CTASection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ClientLogos.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ContactSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\FloatingScrollButton.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Footer.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Footer.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\HeroSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\InsightsSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\MetricsSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Navbar.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Navbar.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\NewsSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PageLoader.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ParticleVideoRenderer.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PolicyModal.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PolicyModal.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ProcessSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Root.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ScrollToTop.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\SeoSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ServicesSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\SignatureSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\StatsSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TargetAudienceSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TechSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TrustSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\VideoShowcase.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\VideoShowcase.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\WorkSection.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\WorkShowcase.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\policies.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\data\blogPosts.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\CaseStudies.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\FAQs.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\Guides.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\Insights.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\AuraAI.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Design.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Ecom.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Pro.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Web.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\About.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Capabilities.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Contact.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Home.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Support.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Support.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\UseCases.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\utils\ParticleEngine.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\utils\SupportParticleEngine.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\App.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\routes.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\imports\sk_digitech_logo-1.png
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\fonts.css
+❌ Failed to download C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\globals.css: Error: Unexpected API response (no data field): {"data":""}
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\index.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\tailwind.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\theme.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\utils\supabaseClient.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\declarations.d.ts
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\main.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\functions\server\index.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\functions\server\kv_store.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\migrations\00000_create_contacts.sql
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\utils\supabase\info.tsx
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\ATTRIBUTIONS.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\DESIGN_IMPROVEMENTS.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\README.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\SK_DIGITECH_STATUS.md
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\default_shadcn_theme.css
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\index.html
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\package-lock.json
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\package.json
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\pnpm-workspace.yaml
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\postcss.config.mjs
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\temp.txt
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\temp_services.txt
+✅ Downloaded: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\vite.config.ts
+
+🎉 All files processed successfully!
+
+📊 Running comparison...
+
+📁 Total files: 499
+   ✅ Downloaded: 499
+   ⏭️  Skipped: 0
+   ❌ Failed: 1
+💾 Total size: 55.48 MB
+
+📈 File types breakdown:
+   download         140 files
+   tsx              124 files
+   css               60 files
+   png               49 files
+   svg               44 files
+   csv               24 files
+   webp              14 files
+   html               9 files
+   ts                 9 files
+   md                 7 files
+
+🌳 File structure tree:
+
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\charts.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\colors.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\icons.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\landing.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\products.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\react-performance.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\astro.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\flutter.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\html-tailwind.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\jetpack-compose.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nextjs.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nuxt-ui.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\nuxtjs.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\react-native.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\react.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\shadcn.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\svelte.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\swiftui.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\stacks\vue.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\styles.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\typography.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\ui-reasoning.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\ux-guidelines.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\data\web-interface.csv
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\core.py
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\design_system.py
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\scripts\search.py
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agent\skills\ui-ux-pro-max\SKILL.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\.agents\AGENTS.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\ATTRIBUTIONS.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\default_shadcn_theme.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\DESIGN_IMPROVEMENTS.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\index-DLOJ0ONh.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\index-DWB88TSb.js
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\assets\sk_digitech_logo-1-CsrzbJwn.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\aura_skincare_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_brand_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_growth_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_gtm_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\blueprint_gtm_page1.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\helio_dashboard_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\helio_dashboard_custom.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\agility_artifact_1782480096378.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\aura_ai_chat.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\aura_hero.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\bakery_landing.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\integrity_artifact_1782480057845.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\pro_bg.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\team_artifact_1782480085547.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\transparency_artifact_1782480070661.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\uc_education_1_1782481941967.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\uc_healthcare_1_1782481955830.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\images\web_bg.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\index.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\meridian_fintech_identity.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\strategy_hero.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\volta_music_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\dist\web_macbook_mockup.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\guidelines\Guidelines.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\index.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\package-lock.json
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\package.json
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\pnpm-workspace.yaml
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\postcss.config.mjs
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\aura_skincare_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_brand_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_growth_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_gtm_cover.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\blueprint_gtm_page1.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\helio_dashboard_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\helio_dashboard_custom.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\agility_artifact_1782480096378.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\aura_ai_chat.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\aura_hero.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\bakery_landing.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\integrity_artifact_1782480057845.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\pro_bg.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\team_artifact_1782480085547.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\transparency_artifact_1782480070661.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\uc_education_1_1782481941967.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\uc_healthcare_1_1782481955830.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\images\web_bg.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\meridian_fintech_identity.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\strategy_hero.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\volta_music_3d.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\public\web_macbook_mockup.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\README.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\ad_status.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\artifacts-and-verification.jpg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\base.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\channels4_profile.jpg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\cookienotificationbar.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\cookienotificationbar.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\feedback.jpg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\gtm.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\htV29JrMXmA.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\js
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\lottie-light.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\m=root,base
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\main-M3OAQNLT.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\manager-to-editor-handoffs.jpg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\rs=AGKMywHdBvR6U9bN1d1bex7_nI-qwG9hRw
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\styles-NNWH23TG.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\antigravity_footer\Google Antigravity - footer\www-player.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\analytics.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\animate.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\burger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\close.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\cube.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\hammer.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\jquery-1.10.2.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\logo.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\SmoothScroll.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tag_phono.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tag.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-2.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-2.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-ext-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-animation-sbs-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-blocks-page42737405.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-blocks-page42737405.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-events-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-fallback-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-forms-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-grid-3.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-lazyload-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-phone-mask-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-polyfill-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-scripts-3.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-slds-1.4.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-slds-1.4.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-stat-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-t635-typed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-upwidget-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-fixed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-form-errorbox.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-form-horizontal.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-gallery-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-gallery-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about_files\tilda-zero-scale-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ about.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\1.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\2.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\3.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\4.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\5.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\analytics.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\animate.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\burger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\close.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\finger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\hammer.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\jquery-1.10.2.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\logo.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\SmoothScroll.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tag_phono.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tag.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\three.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-2.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-2.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-ext-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-animation-sbs-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-blocks-page43128257.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-blocks-page43128257.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-events-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-fallback-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-forms-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-grid-3.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-lazyload-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-phone-mask-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-polyfill-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-scripts-3.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-slds-1.4.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-slds-1.4.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-stat-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-upwidget-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-fixed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-form-errorbox.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-form-horizontal.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-gallery-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-gallery-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\tilda-zero-scale-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities_files\TweenMax.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ capabilities.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\4-1.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\4.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\analytics.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\animate.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\banana_.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\burger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\close.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\Group.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\hammer.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\jquery-1.10.2.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\jquery.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\logo.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\milk.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\photo.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\photo(1).png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\SmoothScroll.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tag_phono.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tag.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-2.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-2.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-ext-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-animation-sbs-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-blocks-page42945269.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-blocks-page42945269.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-errors-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-events-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-fallback-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-forms-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-grid-3.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-lazyload-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-phone-mask-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-polyfill-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-scripts-3.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-slds-1.4.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-slds-1.4.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-stat-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-upwidget-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-fixed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-form-errorbox.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-form-horizontal.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-gallery-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-gallery-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases_files\tilda-zero-scale-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ cases.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\analytics.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\animate.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\burger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\close.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\hammer.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\jquery-1.10.2.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\logo_white.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\SmoothScroll.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tag_phono.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tag.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-2.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-2.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-ext-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-animation-sbs-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-blocks-page43104646.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-blocks-page43104646.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-events-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-fallback-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-forms-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-grid-3.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-lazyload-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-performance-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-phone-mask-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-polyfill-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-scripts-3.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-slds-1.4.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-slds-1.4.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-stat-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-upwidget-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-fixed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-form-errorbox.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-form-horizontal.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-gallery-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-gallery-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch_files\tilda-zero-scale-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ get in touch.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\1.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\2.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\3D_Mascot___message_.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\4.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\5.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\all.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\analytics.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\animate.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\banana_.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\Black_118_1.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\burger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\butterfly_black.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\butterfly.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\close.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\dermalys_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\digit.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\digitall_mobil.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\element_white.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\finger.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\hammer.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\hotelline_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\jquery-1.10.2.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\jquery.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\logo.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\milk.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\mototouareg_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\pharmalys_laboratori.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\photo.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\photo(1).png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\play_white.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\primasure_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\puzzle_black.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\puzzle.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\safi_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\SmoothScroll.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\strawberry.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\swisslac_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tablet.png.webp
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\taboo_grey.svg
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tag_phono.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tag.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\three.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-2.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-2.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-ext-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-animation-sbs-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-blocks-page42607998.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-blocks-page42607998.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-events-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-fallback-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-forms-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-grid-3.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-lazyload-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-phone-mask-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-polyfill-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-scripts-3.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-slds-1.4.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-slds-1.4.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-stat-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-t635-typed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-upwidget-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-1.1.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-fixed-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-form-errorbox.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-form-horizontal.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-forms-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-gallery-1.0.min.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-gallery-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\tilda-zero-scale-1.0.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home_files\TweenMax.min.js.download
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\references\digitall group _ home.html
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\scratch\standardize.cjs
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\SK_DIGITECH_STATUS.md
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\App.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AboutSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AbstractArtwork.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AntigravityHero.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AntigravityHero.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\AuraAISection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\BlogCard.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\CategoryFilter.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\blog\FeaturedPostCard.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ClientLogos.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ContactSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\CTABand.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\CTASection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\figma\ImageWithFallback.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\FloatingScrollButton.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Footer.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Footer.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\HeroSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\InsightsSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\MetricsSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\AuraAIMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\AuraBrandingMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\BakeryMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\CampusSystemMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\CreativePulseMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\EliteAcademyMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\IndigoAIMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\mockups\MechanicMockup.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Navbar.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Navbar.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\NewsSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PageLoader.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ParticleVideoRenderer.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\policies.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PolicyModal.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\PolicyModal.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ProcessSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\Root.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ScrollToTop.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\SeoSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ServicesSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\CaseStudyCard.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\DottedBg.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\MagneticButton.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\ScrollReveal.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\SectionLabel.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\ServiceHero.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\shared\TestimonialBlock.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\SignatureSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\StatsSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TargetAudienceSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TechSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\TrustSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\accordion.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\alert-dialog.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\alert.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\aspect-ratio.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\avatar.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\badge.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\breadcrumb.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\button.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\calendar.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\card.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\carousel.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\chart.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\checkbox.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\collapsible.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\command.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\context-menu.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\dialog.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\drawer.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\dropdown-menu.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\form.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\hover-card.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\input-otp.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\input.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\label.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\MagneticButton.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\menubar.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\navigation-menu.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\pagination.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\popover.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\progress.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\radio-group.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\resizable.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\scroll-area.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\select.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\separator.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sheet.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sidebar.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\skeleton.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\slider.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\sonner.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\switch.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\table.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\tabs.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\textarea.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\toggle-group.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\toggle.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\tooltip.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\use-mobile.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\ui\utils.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\OrbitalDock.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ParticleLogoFormation.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ParticleStarfield.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ServiceMockups.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\ServicesBillboard.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\video-showcase\types.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\VideoShowcase.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\VideoShowcase.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\WorkSection.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\components\WorkShowcase.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\data\blogPosts.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\About.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Capabilities.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Contact.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Home.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\CaseStudies.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\FAQs.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\Guides.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\resources\Insights.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\AuraAI.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Design.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Ecom.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Pro.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\services\Web.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Support.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\Support.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\pages\UseCases.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\routes.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\utils\ParticleEngine.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\app\utils\SupportParticleEngine.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\declarations.d.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\imports\sk_digitech_logo-1.png
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\main.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\fonts.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\index.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\tailwind.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\theme.css
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\utils\supabaseClient.ts
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\functions\server\index.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\functions\server\kv_store.tsx
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\supabase\migrations\00000_create_contacts.sql
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\temp_services.txt
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\temp.txt
+├── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\utils\supabase\info.tsx
+└── 📄 C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\vite.config.ts
+
+❌ Failed downloads: 1
+   C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\globals.css
+
+🔄 Retrying failed downloads...
+
+   ⏭️ Could not find tree entry for: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\source\src\styles\globals.css
+
+❌ 1 file(s) still failed.
+
+   To retry later: npx tsx src/vercel-deploy-source-downloader.ts --deployment 4zfvffy22Sj9JhmUfim7cifcm4Md --retry-failed
+
+✨ Download and verification complete!
+📄 Full log saved to: C:\Users\USER\Desktop\SK-Digitech-website\out\dpl_4zfvffy22Sj9JhmUfim7cifcm4Md\download-log.txt
+   (Use --verbose to see file tree and skipped files)
+

@@ -1,0 +1,236 @@
+/* ══════════════════════════════════════════════════════════════
+   SK DIGITECH Footer — Antigravity-inspired clean design
+   ══════════════════════════════════════════════════════════════ */
+
+.sk-footer {
+  position: relative;
+  z-index: 50;
+  background: #ffffff;
+  color: #000000;
+  padding: 80px 0 0;
+  font-family: 'Google Sans Flex', 'Inter', 'DM Sans', sans-serif;
+  overflow: hidden;
+}
+
+.sk-footer-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 4vw;
+}
+
+/* ── Top Section ── */
+.sk-footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 60px;
+}
+
+.sk-footer-tagline h2 {
+  font-family: 'Google Sans Flex', 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: #000000;
+  margin: 0;
+}
+
+/* ── Link Columns ── */
+.sk-footer-columns {
+  display: flex;
+  gap: 120px;
+  margin-right: 8vw;
+}
+
+.sk-footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sk-footer-col-heading {
+  font-size: 15px;
+  font-weight: 600;
+  color: #000000;
+  cursor: default;
+  margin-bottom: 4px;
+}
+
+.sk-footer-link {
+  position: relative;
+  font-size: 15px;
+  font-weight: 500;
+  color: #333333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: inline-block;
+  width: fit-content;
+}
+
+/* Gradient underline on hover */
+.sk-footer-link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #6200EE, #FF5F00);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.sk-footer-link:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.sk-footer-link:hover::after {
+  width: 100%;
+}
+
+/* ── Massive Brand Text ── */
+.sk-footer-brand {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  margin-bottom: 40px;
+  line-height: 1;
+  user-select: none;
+}
+
+.sk-footer-brand-text {
+  display: flex;
+  align-items: center;
+  font-family: 'Google Sans Flex', 'Inter', sans-serif;
+  font-size: clamp(60px, 15vw, 300px);
+  letter-spacing: -0.05em;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.brand-sk {
+  font-weight: 500;
+  background: linear-gradient(90deg, #6200EE, #FF5F00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.brand-digitech {
+  font-weight: 500;
+  margin-left: 0.15em;
+  color: #000000;
+}
+
+/* ── Bottom Bar ── */
+.sk-footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 0 48px;
+  gap: 24px;
+  padding-right: 90px; /* Space for the floating scroll button */
+}
+
+.sk-footer-bottom-left {
+  display: flex;
+  align-items: center;
+}
+
+.sk-footer-bottom-logo {
+  font-family: 'Google Sans Flex', 'Inter', sans-serif;
+  font-size: 22px;
+  letter-spacing: -0.04em;
+  display: flex;
+  align-items: center;
+}
+
+.brand-digitech-bottom {
+  font-weight: 500;
+  color: #000000;
+  margin-left: 0.15em;
+}
+
+.sk-footer-bottom-right {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.sk-footer-copyright {
+  font-size: 14px;
+  font-weight: 400;
+  color: #5f6368;
+}
+
+.sk-footer-legal-link {
+  position: relative;
+  font-size: 14px;
+  font-weight: 400;
+  color: #5f6368;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.sk-footer-legal-link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0;
+  height: 1.5px;
+  background: linear-gradient(90deg, #6200EE, #FF5F00);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.sk-footer-legal-link:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.sk-footer-legal-link:hover::after {
+  width: 100%;
+}
+
+/* ── Responsive ── */
+@media (max-width: 1024px) {
+  .sk-footer-columns {
+    gap: 80px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .sk-footer {
+    padding: 48px 0 0;
+  }
+
+  .sk-footer-top {
+    flex-direction: column;
+    gap: 48px;
+    margin-bottom: 48px;
+  }
+
+  .sk-footer-columns {
+    gap: 48px;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .sk-footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 32px 0 80px; /* More padding at bottom to avoid scroll button on mobile */
+    padding-right: 0; /* Reset right padding on mobile */
+  }
+
+  .sk-footer-bottom-right {
+    flex-wrap: wrap;
+    gap: 16px 24px;
+  }
+}

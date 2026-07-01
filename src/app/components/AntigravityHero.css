@@ -1,0 +1,135 @@
+.antigravity-hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.canvas-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 2s ease-in-out;
+    pointer-events: none;
+    z-index: 0;
+    will-change: opacity;
+}
+
+.canvas-container canvas {
+    width: 100%;
+    height: 100%;
+    outline: none;
+}
+
+.canvas-container.visible {
+    opacity: 1;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: none;
+    padding: 0 5vw;
+    pointer-events: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translateY(-5vh); /* Visual centering offset typical of Antigravity */
+    will-change: transform;
+}
+
+.hero-logo-container {
+    margin-bottom: 2.5rem;
+    pointer-events: auto;
+}
+
+.hero-logo {
+    height: 80px;
+    width: auto;
+}
+
+.typed-header {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: clamp(2rem, 5.5vw, 5.5rem);
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    color: #000000;
+    margin: 0;
+    display: block;
+    line-height: 1.05;
+    text-align: center;
+    width: 100%;
+}
+
+.blinking-cursor {
+    display: inline-block;
+    width: 6px;
+    height: 0.85em; /* Matches the cap height closely */
+    background: linear-gradient(180deg, #6200EE 0%, #FF5F00 100%);
+    vertical-align: baseline; /* Aligns with text bottom */
+    margin-left: 2px;
+    border-radius: 3px;
+    animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.hero-buttons-container {
+    margin-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    pointer-events: auto; /* Buttons must be clickable */
+    will-change: opacity, transform;
+}
+
+.hero-button {
+    border-radius: 9999px;
+    font-family: 'Google Sans Flex', sans-serif;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    pointer-events: auto;
+}
+
+.hero-button.primary {
+    background: linear-gradient(90deg, #6200EE, #FF5F00);
+    color: #ffffff;
+    border: none;
+    padding: 1.125rem 3.5rem;
+    font-size: 1.25rem;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.hero-button.primary:hover {
+    opacity: 0.9;
+}
+
+.hero-button.secondary {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #e5e7eb;
+    padding: 0.875rem 1.75rem;
+    font-size: 1.125rem;
+}
+
+.hero-button.secondary:hover {
+    background-color: #f3f4f6;
+}
+
