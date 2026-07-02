@@ -18,6 +18,18 @@
   background: #ffffff;
 }
 
+#root {
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), border-radius 0.5s ease;
+  transform-origin: center top;
+  background: #060509;
+}
+
+#root.nav-open-scale {
+  transform: scale(0.94) translateY(10px);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
 .dropdown-panel {
   position: absolute;
   top: 100%;

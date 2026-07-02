@@ -18,9 +18,15 @@
   --warm-white: #F4F3FF;
   --warm-white-card: #EEEDF8;
   --text-on-dark: #E8E7FF;
-  --text-dim-dark: rgba(232,231,255,0.55);
+  --text-dim-dark: rgba(232,231,255,0.65); /* Bumped to 0.65 to guarantee 4.5:1 WCAG contrast */
   --text-on-light: #0D0B1A;
-  --text-dim-light: rgba(13,11,26,0.55);
+  --text-dim-light: rgba(13,11,26,0.65);
+
+  /* Fluid Typography Scale (375px to 1440px) */
+  --text-2xl: clamp(2.25rem, 1.6339rem + 2.629vw, 4rem);
+  --text-xl: clamp(1.5rem, 0.9718rem + 2.253vw, 3rem);
+  --text-lg: clamp(1.25rem, 0.986rem + 1.126vw, 2rem);
+  --text-base: clamp(1rem, 0.956rem + 0.187vw, 1.125rem);
 
   /* Human-Centric Redesign Core Tokens */
   --grad-start: #F7A521;
@@ -32,78 +38,40 @@
   --surface: rgba(255,255,255,0.04);
   --border: rgba(255,255,255,0.08);
 
-  --card: #ffffff;
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: #030213;
-  --primary-foreground: oklch(1 0 0);
-  --secondary: oklch(0.95 0.0058 264.53);
-  --secondary-foreground: #030213;
-  --muted: #ececf0;
-  --muted-foreground: #717182;
-  --accent: #e9ebef;
-  --accent-foreground: #030213;
+  --card: var(--card-dark);
+  --card-foreground: var(--text-on-dark);
+  --popover: var(--space-black);
+  --popover-foreground: var(--text-on-dark);
+  --primary: var(--brand-indigo-mid);
+  --primary-foreground: var(--text-on-dark);
+  --secondary: var(--energy-amber);
+  --secondary-foreground: var(--space-black);
+  --muted: var(--surface);
+  --muted-foreground: var(--text-dim-dark);
+  --accent: var(--surface);
+  --accent-foreground: var(--text-on-dark);
   --destructive: #d4183d;
   --destructive-foreground: #ffffff;
-  --border: rgba(0, 0, 0, 0.1);
   --input: transparent;
-  --input-background: #f3f3f5;
-  --switch-background: #cbced4;
+  --input-background: var(--surface);
+  --switch-background: var(--brand-indigo);
   --font-weight-medium: 500;
   --font-weight-normal: 400;
-  --ring: oklch(0.708 0 0);
+  --ring: var(--brand-indigo-mid);
   --chart-1: oklch(0.646 0.222 41.116);
   --chart-2: oklch(0.6 0.118 184.704);
   --chart-3: oklch(0.398 0.07 227.392);
   --chart-4: oklch(0.828 0.189 84.429);
   --chart-5: oklch(0.769 0.188 70.08);
   --radius: 0.625rem;
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: #030213;
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
-}
-
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.145 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.145 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.985 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.396 0.141 25.723);
-  --destructive-foreground: oklch(0.637 0.237 25.331);
-  --border: oklch(0.269 0 0);
-  --input: oklch(0.269 0 0);
-  --ring: oklch(0.439 0 0);
-  --font-weight-medium: 500;
-  --font-weight-normal: 400;
-  --chart-1: oklch(0.488 0.243 264.376);
-  --chart-2: oklch(0.696 0.17 162.48);
-  --chart-3: oklch(0.769 0.188 70.08);
-  --chart-4: oklch(0.627 0.265 303.9);
-  --chart-5: oklch(0.645 0.246 16.439);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(0.269 0 0);
-  --sidebar-ring: oklch(0.439 0 0);
+  --sidebar: var(--space-black);
+  --sidebar-foreground: var(--text-on-dark);
+  --sidebar-primary: var(--brand-indigo);
+  --sidebar-primary-foreground: var(--text-on-dark);
+  --sidebar-accent: var(--surface);
+  --sidebar-accent-foreground: var(--text-on-dark);
+  --sidebar-border: var(--border);
+  --sidebar-ring: var(--brand-indigo-mid);
 }
 
 @theme inline {
@@ -155,6 +123,8 @@
   body {
     @apply bg-background text-foreground;
     font-family: 'Google Sans Flex', 'Inter', sans-serif;
+    overflow-x: hidden;
+    width: 100%;
   }
 
   /**
@@ -164,6 +134,7 @@
 
   html {
     font-size: var(--font-size);
+    overflow-x: hidden;
   }
 
   h1 {
@@ -215,7 +186,7 @@
   }
 
   ::-webkit-scrollbar-track {
-    background: #ffffff;
+    background: #0B0F19; /* Matched to dark premium theme */
   }
 
   ::-webkit-scrollbar-thumb {

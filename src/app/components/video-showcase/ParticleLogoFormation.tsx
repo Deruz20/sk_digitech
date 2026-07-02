@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { motion } from "framer-motion";
+import { motion, useReducedMotion } from "motion/react";
 
 interface Particle {
   x: number;
@@ -21,6 +21,18 @@ interface ParticleLogoFormationProps {
 export const ParticleLogoFormation = ({ onComplete }: ParticleLogoFormationProps) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const completedRef = useRef(false);
+  const shouldReduceMotion = useReducedMotion();
+
+  useEffect(() => {
+    if (shouldReduceMotion) {
+      if (!completedRef.current) {
+        completedRef.current = true;
+        onComplete?.();
+      }
+    }
+  }, [shouldReduceMotion, onComplete]);
+
+  if (shouldReduceMotion) return null;
 
   useEffect(() => {
     const canvas = canvasRef.current;

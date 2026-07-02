@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence, useScroll, useMotionValueEvent, useReducedMotion } from "motion/react";
+import * as Dialog from "@radix-ui/react-dialog";
 import { ChevronDown, Globe, ShoppingCart, Palette, Bot, Sparkles, ArrowUpRight, Menu, X } from "lucide-react";
 import skLogo from "../../imports/sk_digitech_logo-1.png";
 import "./Navbar.css";
@@ -114,12 +115,22 @@ export function Navbar() {
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
     setMobileDropdown(null);
-    if (!isMobileMenuOpen) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
-    }
   };
+
+  const shouldReduceMotion = useReducedMotion();
+
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      if (!shouldReduceMotion) {
+        document.getElementById('root')?.classList.add('nav-open-scale');
+      }
+    } else {
+      document.getElementById('root')?.classList.remove('nav-open-scale');
+    }
+    return () => {
+      document.getElementById('root')?.classList.remove('nav-open-scale');
+    };
+  }, [isMobileMenuOpen, shouldReduceMotion]);
 
   const toggleMobileDropdown = (key: string) => {
     if (mobileDropdown === key) {
@@ -208,7 +219,10 @@ export function Navbar() {
   };
 
   return (
-    <>
+    <Dialog.Root open={isMobileMenuOpen} onOpenChange={(open) => {
+      setIsMobileMenuOpen(open);
+      if (!open) setMobileDropdown(null);
+    }}>
       <svg width="0" height="0" className="absolute pointer-events-none">
         <defs>
           <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -352,18 +366,19 @@ export function Navbar() {
               <span className="gradient-glow-hover">Start Project</span>
               <ArrowUpRight size={18} className="transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 icon-glow-hover" />
             </motion.button>
-            <motion.button 
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              className={`lg:hidden flex items-center justify-center p-2 transition-all duration-300 group ${
-                isMobileMenuOpen 
-                  ? "bg-[#121317] text-white rounded-full px-4" 
-                  : "text-[#0F172A] rounded-md"
-              }`}
-              onClick={toggleMobileMenu}
-            >
-              {isMobileMenuOpen ? <X size={20} strokeWidth={2.5} className="icon-glow-hover" /> : <Menu size={24} />}
-            </motion.button>
+            <Dialog.Trigger asChild>
+              <motion.button 
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className={`lg:hidden flex items-center justify-center p-2 transition-all duration-300 group ${
+                  isMobileMenuOpen 
+                    ? "bg-[#121317] text-white rounded-full px-4" 
+                    : "text-[#0F172A] rounded-md"
+                }`}
+              >
+                {isMobileMenuOpen ? <X size={20} strokeWidth={2.5} className="icon-glow-hover" /> : <Menu size={24} />}
+              </motion.button>
+            </Dialog.Trigger>
           </div>
         </nav>
 
@@ -379,25 +394,30 @@ export function Navbar() {
       {/* Mobile Menu Full Screen Overlay */}
       <AnimatePresence>
         {isMobileMenuOpen && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.3 }}
-            className="mobile-menu-overlay lg:hidden"
-          >
-            <motion.div 
-              className="mobile-menu-content"
-              variants={{
-                hidden: { opacity: 0 },
-                show: {
-                  opacity: 1,
-                  transition: { staggerChildren: 0.08, delayChildren: 0.1 }
-                }
-              }}
-              initial="hidden"
-              animate="show"
-            >
+          <Dialog.Portal forceMount>
+            <Dialog.Overlay asChild>
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.3 }}
+                className="mobile-menu-overlay lg:hidden"
+              >
+                <Dialog.Content asChild>
+                  <motion.div 
+                    className="mobile-menu-content outline-none"
+                    variants={{
+                      hidden: { opacity: 0 },
+                      show: {
+                        opacity: 1,
+                        transition: { staggerChildren: 0.08, delayChildren: 0.1 }
+                      }
+                    }}
+                    initial="hidden"
+                    animate="show"
+                  >
+                    <Dialog.Title className="sr-only">Mobile Navigation</Dialog.Title>
+                    <Dialog.Description className="sr-only">Main site navigation</Dialog.Description>
               
               {/* Capabilities Mobile Dropdown */}
               <motion.div className="mobile-menu-item" variants={{ hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: [0.25, 1, 0.5, 1] } } }}>
@@ -546,9 +566,12 @@ export function Navbar() {
               </motion.div>
 
             </motion.div>
-          </motion.div>
+                </Dialog.Content>
+              </motion.div>
+            </Dialog.Overlay>
+          </Dialog.Portal>
         )}
       </AnimatePresence>
-    </>
+    </Dialog.Root>
   );
 }

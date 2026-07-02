@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
-import { motion, useMotionValue, useSpring, AnimatePresence, useScroll, useTransform } from "framer-motion";
+import { motion, useMotionValue, useSpring, AnimatePresence, useScroll, useTransform, useReducedMotion } from "motion/react";
 import { Play } from "lucide-react";
 import { OrbitalDock } from "./video-showcase/OrbitalDock";
 import "./VideoShowcase.css";
@@ -163,7 +163,8 @@ export const VideoShowcase = () => {
     offset: ["start end", "end end"]
   });
 
-  const rawScale = useTransform(scrollYProgress, [0, 1], [0.5, 1]);
+  const shouldReduceMotion = useReducedMotion();
+  const rawScale = useTransform(scrollYProgress, [0, 1], shouldReduceMotion ? [1, 1] : [0.5, 1]);
   const scale = useSpring(rawScale, { stiffness: 50, damping: 20, restDelta: 0.001 });
 
   return (

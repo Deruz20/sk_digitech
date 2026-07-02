@@ -87,12 +87,13 @@ uniform float uRingWidth2;
 uniform float uRingDisplacement;
 uniform sampler2D uTargetPosRefs;
 uniform float uShapeBlend;
+uniform float uSimSize;
 
 ${snoise}
 
 void main() {
-    // 256.0 is the FBO size
-    vec2 simTexCoords = gl_FragCoord.xy / vec2(256.0, 256.0);
+    // Dynamic FBO size
+    vec2 simTexCoords = gl_FragCoord.xy / vec2(uSimSize, uSimSize);
     vec4 pFrame = texture2D(uPosition, simTexCoords);
 
     float scale = pFrame.z;
@@ -284,8 +285,8 @@ export class SupportParticleEngine {
     private scene!: THREE.Scene;
     private camera!: THREE.OrthographicCamera;
 
-    private size = 256; 
-    private length = 256 * 256;
+    private size = window.innerWidth < 768 ? 64 : window.innerWidth < 1200 ? 128 : 200; 
+    private length = this.size * this.size;
     
     rt1!: THREE.WebGLRenderTarget;
     rt2!: THREE.WebGLRenderTarget;
@@ -487,7 +488,8 @@ export class SupportParticleEngine {
                 uRingDisplacement: { value: 1.0 },
                 uTime: { value: 0 },
                 uTargetPosRefs: { value: this.currentShapeTexture },
-                uShapeBlend: { value: 0.0 }
+                uShapeBlend: { value: 0.0 },
+                uSimSize: { value: this.size }
             },
             vertexShader: simVertexShader,
             fragmentShader: simFragmentShader,
@@ -565,10 +567,23 @@ export class SupportParticleEngine {
         }
     }
 
+    private fpsInterval = window.innerWidth < 768 ? 1000 / 30 : 0;
+    private then = Date.now();
+
     private animate = () => {
         if (this.isDestroyed) return;
         this.frameId = requestAnimationFrame(this.animate);
-        this.render();
+        
+        if (this.fpsInterval > 0) {
+            const now = Date.now();
+            const elapsed = now - this.then;
+            if (elapsed > this.fpsInterval) {
+                this.then = now - (elapsed % this.fpsInterval);
+                this.render();
+            }
+        } else {
+            this.render();
+        }
     }
 
     public render() {
@@ -615,11 +630,26 @@ export class SupportParticleEngine {
     public destroy() {
         this.isDestroyed = true;
         cancelAnimationFrame(this.frameId);
-        this.rt1.dispose();
-        this.rt2.dispose();
-        this.posTex.dispose();
-        this.simMaterial.dispose();
-        this.renderMaterial.dispose();
-        this.renderer.dispose();
+        
+        if (this.mesh?.geometry) this.mesh.geometry.dispose();
+        if (this.simScene) {
+            this.simScene.children.forEach(child => {
+                if ((child as THREE.Mesh).geometry) {
+                    (child as THREE.Mesh).geometry.dispose();
+                }
+            });
+        }
+
+        this.rt1?.dispose();
+        this.rt2?.dispose();
+        this.posTex?.dispose();
+        this.defaultTex?.dispose();
+        this.xTex?.dispose();
+        this.ytTex?.dispose();
+        this.inTex?.dispose();
+        this.skTex?.dispose();
+        this.simMaterial?.dispose();
+        this.renderMaterial?.dispose();
+        this.renderer?.dispose();
     }
 }

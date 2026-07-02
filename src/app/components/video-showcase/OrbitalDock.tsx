@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import { motion, useScroll, useTransform, useSpring, useAnimationFrame, useMotionValue } from "framer-motion";
+import { motion, useScroll, useTransform, useSpring, useAnimationFrame, useMotionValue } from "motion/react";
 import {
   CheckCircle2,
   Box,

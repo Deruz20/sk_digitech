@@ -1,7 +1,11 @@
 import { useEffect, useRef } from "react";
+import { useReducedMotion } from "motion/react";
 
 export const ParticleStarfield = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const shouldReduceMotion = useReducedMotion();
+
+  if (shouldReduceMotion) return null;
 
   useEffect(() => {
     const canvas = canvasRef.current;

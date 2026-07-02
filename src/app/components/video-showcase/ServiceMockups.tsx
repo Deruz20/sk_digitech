@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence } from "motion/react";
 import { Terminal, Database, Shield, Cpu, Activity, Server, Layout, PenTool, MousePointer2 } from "lucide-react";
 import type { ServiceSectionId } from "./types";
 

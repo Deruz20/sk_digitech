@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, useScroll, useTransform, AnimatePresence } from "motion/react";
 import { useNavigate } from 'react-router';
 import { ArrowUpRight } from 'lucide-react';
 import { ParticleEngine } from '../utils/ParticleEngine';
